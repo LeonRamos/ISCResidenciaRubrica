@@ -1,0 +1,115 @@
+# Formato de Evaluación de Residencia Profesional  
+**Carrera: Ingeniería en Sistemas Computacionales (o afín)**  
+**Normativa: TecNM**  
+**Evaluación: 50% empresa/organización (asesor externo) | 50% academia (asesor interno + 2 sinodales)**
+
+---
+
+## Datos Generales
+
+- **Nombre del estudiante:** ___________________________________________
+- **No. de control:** _________________________________________________
+- **Nombre del proyecto:** ____________________________________________
+- **Empresa/Organización:** ___________________________________________
+- **Asesor externo:** _________________________________________________
+- **Asesor interno:** _________________________________________________
+- **Sinodal 1:** ______________________________________________________
+- **Sinodal 2:** ______________________________________________________
+- **Fecha de evaluación:** ____________________________________________
+
+---
+
+## 1. Competencias Técnicas y Aplicación Profesional (35%)
+
+| Criterio                        | Calificación (0-10) | Observaciones / Evidencias |
+|----------------------------------|---------------------|---------------------------|
+| Aplicación de conocimientos      |                     |                           |
+| Calidad del sistema/prototipo    |                     |                           |
+| Vinculación empresa-carrera      |                     |                           |
+
+---
+
+## 2. Metodología y Seguimiento (25%)
+
+| Criterio            | Calificación (0-10) | Observaciones / Evidencias |
+|---------------------|---------------------|---------------------------|
+| Reuniones semanales |                     |                           |
+| Enfoque metodológico|                     |                           |
+
+---
+
+## 3. Comunicación y Reportes (20%)
+
+| Criterio         | Calificación (0-10) | Observaciones / Evidencias |
+|------------------|---------------------|---------------------------|
+| Informe final    |                     |                           |
+| Defensa oral     |                     |                           |
+
+---
+
+## 4. Impacto y Ética (20%)
+
+| Criterio            | Calificación (0-10) | Observaciones / Evidencias |
+|---------------------|---------------------|---------------------------|
+| Contribución        |                     |                           |
+| Ética profesional   |                     |                           |
+
+---
+
+## 5. Entregables y Seguimiento
+
+- **Informe final de residencia:** [  ] Entregado    [  ] No entregado
+- **Minutas de reuniones (al menos 16):** [  ] Entregadas    [  ] No entregadas
+- **Prototipo funcional y manual técnico:** [  ] Entregado    [  ] No entregado
+- **Matriz de competencias aplicadas:** [  ] Entregada    [  ] No entregada
+- **Defensa oral realizada:** [  ] Sí    [  ] No
+
+---
+
+## 6. Calificación Final
+
+**Instrucciones:**  
+- Sume las calificaciones de cada criterio por evaluador (externo/interno/sinodales) y multiplique por el porcentaje correspondiente.
+- Promedie los resultados de la empresa y la academia (asesor interno + sinodales).
+
+| Área/Criterio      | Peso (%) | Externo | Interno + Sinodales | Promedio |
+|--------------------|----------|---------|---------------------|----------|
+| Técnico            |   35     |         |                     |          |
+| Metodología        |   25     |         |                     |          |
+| Comunicación       |   20     |         |                     |          |
+| Impacto/Ética      |   20     |         |                     |          |
+| **Total**          | **100**  |         |                     |          |
+
+**Calificación final:** ___________________________________________________
+
+---
+
+## 7. Retroalimentación General
+
+- **Fortalezas del trabajo:**  
+  ______________________________________________________________________  
+  ______________________________________________________________________  
+- **Áreas de mejora / Recomendaciones:**  
+  ______________________________________________________________________  
+  ______________________________________________________________________  
+
+---
+
+## 8. Firmas
+
+| Nombre y Cargo            | Firma                       |
+|--------------------------|-----------------------------|
+| Asesor externo           |                             |
+| Asesor interno           |                             |
+| Sinodal 1                |                             |
+| Sinodal 2                |                             |
+| Representante empresa    |                             |
+| Jefe de carrera/academia |                             |
+
+---
+
+**Nota:**  
+- Diferencias mayores a 2 puntos en algún criterio deben ser revisadas en comité técnico-académico.
+- Adjuntar evidencias: informe, minutas, prototipo, matriz de competencias y acta de defensa.
+
+---
