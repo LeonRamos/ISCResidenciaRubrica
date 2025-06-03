@@ -1,72 +1,113 @@
-## Rúbrica de Evaluación para Residencia Profesional en Sistemas Computacionales (Normativa TecNM & TSJ)  
-**Evaluación 50% asesor externo (empresa/organización) | 50% asesor interno (academia)**  
+# Rúbrica de Evaluación para Residencia Profesional  
+**Carrera: Ingeniería en Sistemas Computacionales (o afín)**  
+**Normativa: TecNM**  
+**Evaluación: 50% empresa/organización (asesor externo) | 50% academia (asesor interno + 2 sinodales)**
 
 ---
 
-### **1. Competencias Técnicas y Desarrollo del Proyecto (40%)**  
-| **Criterio** | **Excelente (9-10)** | **Bueno (7-8)** | **Suficiente (5-6)** | **Insuficiente (0-4)** |  
-|--------------|----------------------|------------------|-----------------------|------------------------|  
-| **Aplicación de conocimientos** | Solución innovadora que integra técnicas avanzadas de sistemas computacionales (ej: IoT, IA, redes). | Implementa tecnologías estándar con ajustes menores. | Usa herramientas básicas sin mejoras significativas. | No aplica conocimientos relevantes de la carrera. |  
-| **Calidad técnica** | Sistema funcional, escalable y documentado (código, manuales, diagramas). | Prototipo funcional con documentación parcial. | Prototipo parcialmente funcional sin documentación clara. | Errores críticos que impiden su operación. |  
-| **Alcance del proyecto** | Supera los objetivos iniciales con valor agregado para la empresa. | Cumple objetivos en tiempo y forma. | Cumple parcialmente los objetivos. | No cumple los objetivos mínimos. |  
+## 1. Competencias Técnicas y Aplicación Profesional (35%)
+
+| Criterio                        | Excelente (9-10)                                                                                                    | Bueno (7-8)                                            | Suficiente (5-6)                                 | Insuficiente (0-4)                       |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------|------------------------------------------|
+| Aplicación de conocimientos      | Integra ≥5 competencias clave del plan de estudios en soluciones innovadoras validadas en la empresa.               | Aplica 3-4 competencias con ajustes menores.           | Usa 1-2 competencias básicas sin adaptación.      | No demuestra dominio de competencias.    |
+| Calidad del sistema/prototipo    | Producto funcional, escalable y documentado (manuales técnicos, código comentado, diagramas UML).                   | Prototipo operativo con documentación parcial.         | Versión preliminar con errores no críticos.       | Producto no funcional o sin entregables. |
+| Vinculación empresa-carrera      | Evidencia clara de cómo el proyecto resuelve necesidades específicas de la organización usando el perfil de egreso. | Relación parcial entre proyecto y competencias.        | Vinculación superficial sin justificación técnica.| Sin conexión con la carrera.             |
 
 **Evaluadores:**  
-- **Externo:** Valora la utilidad práctica en el contexto empresarial.  
-- **Interno:** Verifica alineación con competencias del plan de estudios (ej: POO, bases de datos).  
+- Externo: Valora utilidad práctica y alineación con objetivos empresariales.  
+- Interno + sinodales: Verifican mapeo de competencias (Anexo VII del informe) y uso de normas técnicas (IEEE/APA).
 
 ---
 
-### **2. Metodología y Procesos (25%)**  
-| **Criterio** | **Excelente (9-10)** | **Bueno (7-8)** | **Suficiente (5-6)** | **Insuficiente (0-4)** |  
-|--------------|----------------------|------------------|-----------------------|------------------------|  
-| **Planificación** | Cronograma detallado con hitos realistas y ajustes documentados. | Cronograma general sin seguimiento continuo. | Planificación incompleta o desorganizada. | Sin planificación. |  
-| **Metodología** | Usa metodologías ágiles o modelos de ciclo de vida (SCRUM, cascada) con evidencia. | Aplica metodología básica sin adaptaciones. | Metodología poco clara o inconsistente. | No sigue metodología alguna. |  
+## 2. Metodología y Seguimiento (25%)
+
+| Criterio            | Excelente (9-10)                                                                 | Bueno (7-8)                          | Suficiente (5-6)                      | Insuficiente (0-4)                |
+|---------------------|----------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------------|
+| Reuniones semanales | Asistió a 16+ sesiones, entregó minutas con avances técnicos y ajustes al plan.  | 12-15 sesiones con seguimiento básico.| <12 sesiones o sin evidencia activa.  | Inasistencia recurrente.          |
+| Enfoque metodológico| Usó metodología ágil/tradicional con hitos validados y evidencia de iteraciones. | Aplicó metodología estándar.         | Secuencia de actividades poco clara.  | Sin metodología identificable.     |
 
 **Evaluadores:**  
-- **Externo:** Evalúa alineación con procesos de la empresa (ej: gestión de proyectos).  
-- **Interno:** Revisa coherencia con marcos teóricos (ej: IEEE 830 para especificaciones).  
+- Externo: Certifica cumplimiento de procesos internos de la empresa.  
+- Interno + sinodales: Revisan coherencia con marco teórico y plan de estudios.
 
 ---
 
-### **3. Comunicación y Trabajo en Equipo (15%)**  
-| **Criterio** | **Excelente (9-10)** | **Bueno (7-8)** | **Suficiente (5-6)** | **Insuficiente (0-4)** |  
-|--------------|----------------------|------------------|-----------------------|------------------------|  
-| **Informes técnicos** | Reportes estructurados, sin errores y con análisis crítico (ej: gráficas, tablas comparativas). | Reportes completos pero con omisiones menores. | Reportes incompletos o con errores formales. | Informes no entregados o plagio detectado. |  
-| **Colaboración** | Liderazgo demostrado, integración efectiva con equipos multidisciplinarios. | Participación activa sin iniciativas destacadas. | Participación esporádica o reactiva. | Actitud pasiva o conflictiva. |  
+## 3. Comunicación y Reportes (20%)
+
+| Criterio         | Excelente (9-10)                                                                                       | Bueno (7-8)                                 | Suficiente (5-6)                          | Insuficiente (0-4)                       |
+|------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------------------------------------|------------------------------------------|
+| Informe final    | Cumple 18+ secciones del Anexo XXVIII, análisis crítico, ≤15% similitud antiplagio, formato TecNM.     | 12-15 secciones, omisiones menores.         | <12 secciones o errores graves de forma.  | Informe rechazado por plagio o faltante. |
+| Defensa oral     | Exposición clara, demostración en vivo del sistema, respuestas técnicas precisas.                      | Exposición adecuada con materiales visuales.| Dificultades para explicar resultados.    | No defendió el proyecto.                 |
 
 **Evaluadores:**  
-- **Externo:** Valora adaptación a la cultura organizacional y comunicación clara.  
-- **Interno:** Verifica uso de normas APA/IEEE en documentos y presentaciones.  
+- Externo: Evalúa claridad en la comunicación de resultados a la empresa.  
+- Interno + sinodales: Verifican formato APA/IEEE y profundidad del marco teórico (≥15 citas).
 
 ---
 
-### **4. Impacto y Ética Profesional (20%)**  
-| **Criterio** | **Excelente (9-10)** | **Bueno (7-8)** | **Suficiente (5-6)** | **Insuficiente (0-4)** |  
-|--------------|----------------------|------------------|-----------------------|------------------------|  
-| **Contribución social/empresarial** | Solución con impacto medible (ej: reducción de costos, mejora de eficiencia ≥30%). | Beneficios tangibles sin métricas precisas. | Impacto limitado o no cuantificado. | Sin aporte relevante. |  
-| **Ética y seguridad** | Respeta normativas de protección de datos (LGPD, GDPR) y propiedad intelectual. | Cumple estándares éticos básicos sin documentación. | Omite protocolos de seguridad críticos. | Violación grave de ética profesional. |  
+## 4. Impacto y Ética (20%)
+
+| Criterio            | Excelente (9-10)                                                                                   | Bueno (7-8)                        | Suficiente (5-6)                      | Insuficiente (0-4)                       |
+|---------------------|----------------------------------------------------------------------------------------------------|------------------------------------|---------------------------------------|------------------------------------------|
+| Contribución        | Solución implementada con métricas de impacto (ej: reducción ≥30% en tiempos/errores/costos).      | Validación exitosa en entorno real.| Beneficios teóricos sin validación.   | Sin aporte cuantificable.                |
+| Ética profesional   | Respeta normativas de privacidad, propiedad intelectual y código de ética TecNM.                   | Cumple estándares básicos.         | Omisiones en protocolos de seguridad. | Violación grave de confidencialidad.     |
 
 **Evaluadores:**  
-- **Externo:** Certifica cumplimiento de políticas internas y regulaciones sectoriales.  
-- **Interno:** Verifica alineación con código de ética del TecNM y sostenibilidad.  
+- Externo: Certifica alineación con políticas de la empresa.  
+- Interno + sinodales: Validan originalidad (antiplagio <15%) y cumplimiento ético.
 
 ---
 
-### **Proceso de Calificación Final**  
-1. **Ponderación:**  
-   - Cada criterio se califica del 0 al 10.  
-   - La nota final es el promedio de las evaluaciones del asesor externo e interno (50% cada una).  
-2. **Validación:**  
-   - Discrepancias >2 puntos en un criterio requieren reunión de arbitraje entre asesores.  
-3. **Competencias demostradas:**  
-   - El proyecto debe reflejar al menos 5 competencias del perfil de egreso (ej: diseño de software, gestión de redes).  
+## 5. Entregables y Seguimiento
 
-**Ejemplo de evaluación:**  
-| Criterio | Externo (50%) | Interno (50%) | Promedio |  
-|----------|---------------|---------------|----------|  
-| Técnico  | 9             | 8             | 8.5      |  
-| Métodos  | 8             | 7             | 7.5      |  
-| Comunicación | 10      | 9             | 9.5      |  
-| Impacto  | 7             | 8             | 7.5      |  
-| **Total** | **8.25**     | **8.0**       | **8.1** |  
+- **Informe final de residencia**: Estructura conforme a Anexo XXVIII del TecNM (ver plantilla oficial).
+- **Minutas de reuniones**: Al menos 16 sesiones documentadas (puede variar según calendario).
+- **Prototipo funcional y manual técnico**.
+- **Matriz de competencias aplicadas**: Relación entre actividades del proyecto y competencias del perfil de egreso.
+- **Defensa oral**: Presentación y demostración ante el comité evaluador.
 
+---
+
+## 6. Proceso de Evaluación
+
+1. **Preparación**:  
+   - Todos los evaluadores reciben la rúbrica y el informe final antes de la presentación.
+   - Cada evaluador revisa y califica de forma independiente.
+
+2. **Presentación y defensa**:  
+   - El estudiante expone el proyecto y responde preguntas técnicas y metodológicas.
+   - Se revisan los entregables y la documentación de las reuniones semanales.
+
+3. **Calificación**:  
+   - Cada criterio se califica de 0 a 10 por asesor externo (50%) y por el equipo académico (asesor interno + 2 sinodales, 50%).
+   - La calificación final es el promedio ponderado.
+   - Diferencias >2 puntos en algún criterio se resuelven en comité técnico-académico.
+
+4. **Acta y retroalimentación**:  
+   - El acta de evaluación es firmada por todos los participantes y entregada al estudiante.
+   - Se proporciona retroalimentación verbal y escrita.
+
+---
+
+## 7. Ejemplo de Ponderación
+
+| Criterio        | Peso | Externo | Interno + Sinodales |  
+|-----------------|------|---------|---------------------|  
+| Técnico         | 35%  | 9       | 8                   |  
+| Metodología     | 25%  | 8       | 7                   |  
+| Comunicación    | 20%  | 10      | 9                   |  
+| Impacto/Ética   | 20%  | 7       | 8                   |  
+| **Total**       |100%  | 8.4     | 7.9                 |  
+**Calificación final:** (8.4 + 7.9) / 2 = **8.15/10**
+
+---
+
+## 8. Referencias y Anexos
+
+- [Plantilla oficial de informe de residencia TecNM](Template-TEMPLATE-INFORME-TECNICO-DE-RESIDENCIAS-PROFESIONALES-TECNOLOGICO-SUPERIOR-DE-JALISCO-U.pdf)
+- [Estructura de reportes y anteproyecto](Estructura-de-Reportes-Residencia-Instructivo.docx)
+- [Plantilla de anteproyecto TecNM](TEMPLATE-ANTEPROYECTO-TECNOLOGICO-SUPERIOR-DE-JALISCO-UAZ-ISC.docx)
+
+---
+
+**Nota:** Esta rúbrica asegura la comprobación de competencias adquiridas a lo largo de la carrera, aplicadas en un contexto profesional y evaluadas de manera colegiada y transparente conforme a la normativa TecNM.
